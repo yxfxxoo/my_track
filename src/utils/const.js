@@ -1,6 +1,6 @@
 // const
 const MAPBOX_TOKEN =
-    'pk.eyJ1IjoiYmVuLTI5IiwiYSI6ImNrZ3Q4Ym9mMDBqMGYyeXFvODV2dWl6YzQifQ.gSKoWF-fMjhzU67TuDezJQ';
+    'pk.eyJ1Ijoic3VyZ2U3IiwiYSI6ImNsa2U1MzM5bjEyMW8zcm54eGZ1MW5iZTYifQ.Q0jup5RZRXqe4gd8hJi-uA';
 const MUNICIPALITY_CITIES_ARR = [
   '北京市',
   '上海市',
@@ -25,7 +25,7 @@ const MAP_LAYER_LIST = [
 ];
 
 // styling: set to `true` if you want dash-line route
-const USE_DASH_LINE = true;
+const USE_DASH_LINE = false;
 // styling: route line opacity: [0, 1]
 const LINE_OPACITY = 0.4;
 // styling: map height
@@ -36,9 +36,10 @@ const ROAD_LABEL_DISPLAY = true;
 // IF you outside China please make sure IS_CHINESE = false
 const IS_CHINESE = true;
 const USE_ANIMATION_FOR_GRID = false;
-const CHINESE_INFO_MESSAGE = (yearLength, year) =>
-  `户外运动 ${yearLength} 年 ` + ( year === 'Total' ? '' : `，地图展示的是 ${year} 年的轨迹`);
-
+const CHINESE_INFO_MESSAGE = (yearLength, year) =>{
+const yearStr = year === 'Total' ? '所有' : ` ${year} `;
+return `我用Nike+、TomTom、Suunto、Garmin、Strava等设备软件记录自己运动轨迹 ${yearLength} 年了，右边窗口展示的是${yearStr}的运动轨迹。`;
+}
 const ENGLISH_INFO_MESSAGE = (yearLength, year) =>
   `Logged ${yearLength} Years of Outdoor Journey` +  ( year === 'Total' ? '' : `, the map show routes in ${year}`);
 
@@ -113,12 +114,12 @@ const red = 'rgb(255,0,0)';//大红色
 export const NEED_FIX_MAP = false;
 export const MAIN_COLOR = green;
 export const RUN_COLOR = yellow;
-export const RIDE_COLOR = green;
+export const RIDE_COLOR = veryPeri;
 export const VIRTUAL_RIDE_COLOR = veryPeri;
-export const HIKE_COLOR = pink;
+export const HIKE_COLOR = purple;
 export const SWIM_COLOR = gold;
 export const ROWING_COLOR = cyan;
-export const ROAD_TRIP_COLOR = purple;
+export const ROAD_TRIP_COLOR = pink;
 export const FLIGHT_COLOR = wpink;
 export const PROVINCE_FILL_COLOR = '#47b8e0';
 export const COUNTRY_FILL_COLOR = wpink;
