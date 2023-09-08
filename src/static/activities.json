@@ -568,5 +568,20 @@
 "average_speed": 3.0004935045107977,
 "source": "Garmin Connect",
 "streak": 1
+},
+{
+"run_id": 1693822015000,
+"name": "\u6df1\u5733\u5e02 \u9a91\u884c",
+"distance": 40798.19906580005,
+"moving_time": "2:16:27",
+"type": "Ride",
+"start_date": "2023-09-04 10:06:55",
+"start_date_local": "2023-09-04 18:06:55",
+"location_country": "\u7554\u6e56\u6751, \u56ed\u5c71\u8857\u9053, \u9f99\u5c97\u533a, \u6df1\u5733\u5e02, \u5e7f\u4e1c\u7701, 518100, \u4e2d\u56fd",
+"summary_polyline": "{biiCmdbxTnFfBvChBvN`PfAeAp@Xb@e@fFd@rAt@l@g@`QAzSu@b\\uDtOkFbQoBjGKxTmFn@d@Z{@tCoAxSaG`@VCi@dFuDrFkGfEoKtFeIxG_EzCTfHsIx@F]YLc@bFoGbAwF~IsFI]w@EsBpA_@OxAwChFsAhAkHnA]j@Xz@`DfAnANbBe@tBR|AlCD`AbAf@OkC{Cx@qC]wDzAsLiC{FQaDq@qBkAoAQuBXi@rAOz@eArADl@c@ZuBdBmDm@aAG{Am@w@~Ai@jAwDhD@fAq@RwAmAsACi@bCeApEIxKcGl@iBE_B{@oAXi@pMpIrBUfFiFKyGWg@}AlGoCi@aAaCqAjBk@c@lBqEhADp@_@IuChAW`CqCxAg@CeDrB_A~A}Dk@Q_A|Ae@U?e@xAoAMg@iA~@wFjBsBzBi@`FcCDuAbAcBM{@pEg@V^_CuAkF~@k@lCjAj@Yh@yChCaE`@mC|ByAv@{E{AmC[@Mb@bA|@BfAuAdA}BJc@dC[DI{A~@gCgAeE{A_DqBqA[sCo@WmAX_AsBTq@lAIQiBXm@rBRtD{ATiH_@kCkB{ATwEm@CoBnA{DyHoDrAYOPu@pBo@vA{AmGyK]cEa@OyCt@cBOeEhIoCGmHnAuAzBiEi@eCgA_@h@ZrAi@ZeBmBReCu@[g@hA}@Vn@pIr@|C_Dj\\a@\\yF^m@Yo@yAaBC{AiAiCJo@mAaAEUyAgC_@yM}NG{@nBuEzC[q@_Bw@WyE\\uDM}LkLkEmCuBKeEuDjA{F~@q@`ANxAjC|E|D~B_AfCIlGgBlDfArBm@`BNd@]Fy@sEeDqDuAeD]sBkBeG_CuM}E{QqEUgBZkAjBaDlGeQf@}JSiAyCyAkAwAoEBq@yCk@c@q@FqAhAgFfAqA_A_BmFoBeAiKjDkF?oI}@gD`@kClCmDfOcAdBwIxAoB`DmHfBWdAHxHi@bAoBz@mJqA{DoB{DOc@y@f@y@zBCbFxCzG?dA_@JsBoHoGWiAlLmFTmAeAk@kEj@}HnCqAKgCuAyIxCqDwA_CrCwDKwIpEyIxAsDCq@v@QpGuA`Hc@lAw@\\qUkDqK@s@s@uAh@mKMkRpDc_@wHyKUkHd@el@DX`Pi@xPoEbc@hAlB|NfOrEpJfAhIn@zi@fAlGzCtH~KhQzAbATlAjA`BrO~NhJ|GtClDfJdRxE|T|BvDjAdE`@hIm@zE{Ol^hTfMhNtGbHfBpQ~BxQxF|K`F",
+"average_heartrate": 156.0,
+"average_speed": 4.983290468523275,
+"source": "Garmin Connect",
+"streak": 1
 }
 ]
